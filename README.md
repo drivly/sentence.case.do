@@ -1,4 +1,4 @@
-# Sentence.case.do.do - Sentence case keys Transformation API
+# Sentence.case.do - Sentence case keys Transformation API
 
 Explore the API at: <https://templates.do/api>
 
