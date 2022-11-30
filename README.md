@@ -1,4 +1,4 @@
-# Templates.do - Worker Templates API 
+# Sentence.case.do.do - Sentence case keys Transformation API
 
 Explore the API at: <https://templates.do/api>
 
@@ -6,22 +6,22 @@ Explore the API at: <https://templates.do/api>
 {
   "api": {
     "icon": "🚀",
-    "name": "templates.do",
-    "description": "Cloudflare Worker Template",
-    "url": "https://templates.do/api",
-    "type": "https://apis.do/templates",
+    "name": "sentence.case.do",
+    "description": "Sentence case keys Transformation API",
+    "url": "https://sentence.case.do/api",
+    "type": "https://apis.do/transformation",
     "endpoints": {
-      "listCategories": "https://templates.do/api",
-      "getCategory": "https://templates.do/:type"
+      "listCategories": "https://sentence.case.do/api",
+      "getCategory": "https://sentence.case.do/:type"
     },
-    "site": "https://templates.do",
-    "login": "https://templates.do/login",
-    "signup": "https://templates.do/signup",
-    "subscribe": "https://templates.do/subscribe",
-    "repo": "https://github.com/drivly/templates.do"
+    "site": "https://sentence.case.do",
+    "login": "https://sentence.case.do/login",
+    "signup": "https://sentence.case.do/signup",
+    "subscribe": "https://sentence.case.do/subscribe",
+    "repo": "https://github.com/drivly/sentence.case.do"
   }
   "examples": {
-    "listItems": "https://templates.do/worker"
+    "listItems": "https://sentence.case.do/worker"
   }
 }
 ```
